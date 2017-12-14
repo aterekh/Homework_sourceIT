@@ -13,7 +13,7 @@ public class Task5 {
 	         vertical(array);
 	         diagonal(array);
 	     }
-	    
+	 
 	         public static void directArray(int [][] array){ 
 	             System.out.println("Исходный массив: ");                    
 	         for (int[] array1 : array) {
